@@ -1,0 +1,8 @@
+total 28
+drwxrwxr-x 7 yawkar yawkar     4096 Feb 18 23:01 ./
+drwxr-xr-x 4 yawkar yawkar     4096 Feb 18 22:20 ../
+drwx------ 2 root   yawkar     4096 Feb 18 22:21 backups/
+drwxr-x--T 2 yawkar yawkar     4096 Feb 18 22:21 config/
+drwxrwxr-x 2 yawkar yawkar     4096 Feb 18 22:21 docs/
+drwxr-x--- 2 yawkar yawkar     4096 Feb 18 22:21 logs/
+drwxrwx--- 2 yawkar developers 4096 Feb 18 22:21 src/

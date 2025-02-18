@@ -1,0 +1,13 @@
+    426 ???
+     28 sqlite/sqlite3/db/db3/dbe/sdb/help
+     16 png
+      8 jsonlz4/mozlz4
+      7 sqlite-wal/db-wal
+      7 sqlite-shm/db-shm/db3-shm/dbx-shm/aup3-shm/srd-shm
+      5 gz/tgz/tpz/ipk/vbox-extpack/svgz/blend/dia/gnucash/rdata/xoj
+      4 woff2
+      2 ics
+      2 icc
+      1 jpeg/jpg/jpe/jfif
+      1 ini
+      1 $xe/$ts/pi1/__d
