@@ -1,0 +1,579 @@
+==== Monitoring started Sun Mar  2 02:25:41 PM MSK 2025 ====
+---- Sun Mar  2 02:25:41 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  4.5 us,  2.3 sy,  0.0 ni, 93.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  112K  741M   1% /run/user/1000
+---- Sun Mar  2 02:26:41 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  2.1 sy,  0.0 ni, 97.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:27:41 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  4.3 us,  6.4 sy,  0.0 ni, 89.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:28:41 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  8.6 us, 17.1 sy,  0.0 ni, 74.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:29:42 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  6.5 us,  2.2 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:30:42 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  2.1 us,  4.2 sy,  0.0 ni, 93.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:31:42 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  2.2 sy,  0.0 ni, 97.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:32:43 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  8.1 us, 16.2 sy,  0.0 ni, 75.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:33:43 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:34:43 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  2.0 us,  2.0 sy,  0.0 ni, 95.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:35:43 PM MSK 2025 ----
+CPU usage:
+%Cpu(s): 10.0 us, 30.0 sy,  0.0 ni, 60.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:36:44 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  4.4 sy,  0.0 ni, 95.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:37:44 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  2.0 us,  4.0 sy,  0.0 ni, 94.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:38:44 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  2.2 sy,  0.0 ni, 97.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:39:44 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  2.3 sy,  0.0 ni, 97.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:40:45 PM MSK 2025 ----
+CPU usage:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.4Gi        72Mi       1.0Gi       6.2Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000
+---- Sun Mar  2 02:41:59 PM MSK 2025 ----
+CPU usage:
+%Cpu(s): 11.6 us,  2.3 sy,  0.0 ni, 86.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       1.1Gi       5.3Gi        72Mi       1.0Gi       6.1Gi
+Swap:          4.0Gi          0B       4.0Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           741M  1.9M  739M   1% /run
+/dev/vda2        62G   13G   46G  22% /
+tmpfs           3.7G     0  3.7G   0% /dev/shm
+efivarfs        256K   33K  223K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-sysctl.service
+tmpfs           3.7G   16K  3.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+/dev/vda1       1.1G  6.4M  1.1G   1% /boot/efi
+/dev/loop1      989M  292K  921M   1% /mnt/disk1p1
+/dev/loop3      132M  156K  128M   1% /mnt/disk3p1
+/dev/loop2      500M  5.8M  419M   2% /mnt/disk2p2
+/dev/loop5      132M  172K  121M   1% /mnt/disk3p3
+/dev/loop4      158M   71M   15M  83% /mnt/disk3p2
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
+/dev/loop0      436M   34M  403M   8% /mnt/disk2p1
+/dev/loop7      286M  174M  113M  61% /mnt/disk3p4
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+share           461G  238G  224G  52% /mnt/utm
+/mnt/utm        461G  238G  224G  52% /home/yawkar/utm
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyAMA0.service
+tmpfs           741M  116K  741M   1% /run/user/1000

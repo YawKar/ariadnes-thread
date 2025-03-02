@@ -1,0 +1,10 @@
+==== Monitoring started Sun Mar  2 02:25:41 PM MSK 2025 ====
+++ date
++ echo '---- Sun Mar  2 02:41:59 PM MSK 2025 ----'
++ echo 'CPU usage:'
++ top -bn1
++ grep 'Cpu(s)'
++ echo 'Memory usage:'
++ free -mh
++ echo 'Disk usage:'
++ df -h
